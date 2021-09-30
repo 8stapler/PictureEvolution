@@ -5,7 +5,7 @@ import numpy as np
 import copy
 
 
-TARGET_IMAGE_FILENAME = 'samp3.png'
+TARGET_IMAGE_FILENAME = 'samp1.png'
 POPULATION = 100
 MUTATION_RATE = 1 / 100
 CROSSOVER = True
